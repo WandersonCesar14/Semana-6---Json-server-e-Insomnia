@@ -1,0 +1,73 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Jane",
+      "email": "jane@gmail.com",
+      "nascimento": "22/10/2023",
+      "cep": 58265000
+    },
+    {
+      "id": 2,
+      "nome": "Carol",
+      "email": "carol@gmail.com",
+      "nascimento": "16/04/2005",
+      "cep": 58268000
+    },
+    {
+      "id": 3,
+      "nome": "Monalisa",
+      "email": "monalisa@gmail.com",
+      "nascimento": "21/11/1999",
+      "cep": 58200000
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "RS cartaosd",
+      "preco": "RS 21,00"
+    },
+    {
+      "id": 2,
+      "nome": "Capinha de celular",
+      "preco": "R$ 20,00"
+    },
+    {
+      "id": 3,
+      "nome": "Pelicula  3D",
+      "preco": "R$ 30,00"
+    }
+  ],
+  "entregadores": [
+    {
+      "id": 1,
+      "nome": "Junior",
+      "email": "junior@gmail.com"
+    },
+    {
+      "id": 2,
+      "nome": "Vitoria",
+      "email": "vitoria@gmail.com"
+    },
+    {
+      "id": 3,
+      "nome": "Antonio de Eloi",
+      "email": "eloi@gmail.com"
+    }
+  ],
+  "fornecedores": [
+    {
+      "id": 2,
+      "nome": "Shopen",
+      "email": "shopen@gmail.com",
+      "cnpj": "000.999.000001-75"
+    },
+    {
+      "id": 3,
+      "nome": "sandisk",
+      "email": "sandisk@gmail.com",
+      "cnpj": "700.999.000054-20"
+    }
+  ]
+}
